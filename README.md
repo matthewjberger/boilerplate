@@ -1,6 +1,6 @@
 # Application Boilerplate
 
-This repo is just a small boilerplate project that can be used make various sample applications demonstrating different rendering techniques, etc.
+This repo is just a small boilerplate project that can be used to make various sample applications demonstrating different rendering techniques, etc.
 
 It is not associated with any specific graphics backend.
 
